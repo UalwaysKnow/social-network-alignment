@@ -1,0 +1,1 @@
+To start training: ./train.sh OR nohup ./train.sh &

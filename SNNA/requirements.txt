@@ -1,0 +1,3 @@
+python2.7 
+tensorflow cPickle os time argparse numpy linecache 
+deepwalk--github resource:https://github.com/phanein/deepwalk
